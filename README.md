@@ -15,7 +15,7 @@ This is a simple chat app, created to learn:
 ## Required Node verison
 `v20.0.0+`
 
-## scripts:
+## Scripts:
 - clone repo
 ```bash
 git clone https://github.com/TymekGluch/next-chat-app.git
@@ -28,3 +28,7 @@ git clone https://github.com/TymekGluch/next-chat-app.git
 ```bash
 npm run dev
 ```
+
+## Domain
+
+https://my-next-chat-app.netlify.app/
